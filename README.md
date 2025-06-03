@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Varun <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=24F786&center=true&vCenter=true&random=false&width=435&lines=+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
-  <h3>I'm a fast learner and builder with a deep curiosity for how things work—whether that’s down at the OS level or across full-stack web systems. I love jumping into unfamiliar technologies, figuring things out quickly, and turning ideas into working software.</h3>
+  <p align="center" style="font-size: 1.1em; font-weight: normal;">I'm a fast learner and builder with a deep curiosity for how things work—whether that’s down at the OS level or across full-stack web systems. I love jumping into unfamiliar technologies, figuring things out quickly, and turning ideas into working software.</p>
 </div>
 
 ---
