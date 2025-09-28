@@ -6,10 +6,10 @@
 ---
 
 ### 🚀 Check out my latest finished project!
-- [SchedulD - A course management utility](https://github.com/VarunKandasamy/SchedulD/)
+- [Playing Yahtzee using RL](https://github.com/VarunKandasamy/yahtzeeRL)
 
 ### 🔭 I’m currently working on
-- [Playing Yahtzee using RL](https://github.com/VarunKandasamy/yahtzeeRL)
+- [Huh - a better man page](https://github.com/VarunKandasamy/Huh-The-Better-man-page)
 
 ### 🌱 I’m currently learning
 - **Kubernetes, Redis**
