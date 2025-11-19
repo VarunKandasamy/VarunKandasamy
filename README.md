@@ -12,10 +12,10 @@
 - [Huh - a better man page](https://github.com/VarunKandasamy/Huh-The-Better-man-page)
 
 ### 🌱 I’m currently learning
-- **Kubernetes, Redis**
+- **How to get involved with open source!**
 
 ### 💬 Ask me about
-- **Rust vs C++ (What's Old is Gold 😉)**
+- **Rust vs C++ (What's Old is Gold)**
 
 ---
 
